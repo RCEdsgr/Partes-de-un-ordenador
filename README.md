@@ -1,5 +1,5 @@
 # **PARTES DE UN ORDENADOR**
-![ups... parece que la imagen no carga](1.jpg)
+![ups... parece que la imagen no carga](Partes-de-un-ordenador/TRABAJODAW/1.jpg)
 ## MONTAJE Y DESMONTAJE
 
 ### PARA EL DESMONTAJE DE ESTE EQUIPO ANTIGUO PRIMERO VAMOS A DEJAR COMO DATO LAS CARACTERISTICAS DE ESTE SIGUIENTE :
