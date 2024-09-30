@@ -1,2 +1,2 @@
-# Partes-de-un-ordenador
-Partes de cada uno de los componentes de un equipo
+# PARTES DE UN ORDENADOR
+## MONTAJE Y DESMONTAJE
