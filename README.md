@@ -8,7 +8,7 @@
 ![ups... parece que la imagen no carga](19.jpg)
 #### ·Procesador : Intel pentium 4 (3 GHz)
 ![ups... parece que la imagen no carga](38.jpg)
-#### ·Cantidad de memoria RAM : 3 Gb de memoria
+#### ·Cantidad de memoria RAM : 10 Gb de memoria
 ![ups... parece que la imagen no carga](33.jpg)
 #### ·Unidad de almacenamiento : Disco duro de 500 Gb ( de la marca Western Digital)
 ![ups... parece que la imagen no carga](17.jpg)
