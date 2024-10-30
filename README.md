@@ -2,7 +2,7 @@
 ![ups... parece que la imagen no carga](Puestaenmarchadeunequipo/1.jpg/)
 ## MONTAJE Y DESMONTAJE
 
-### PARA EL DESMONTAJE DE ESTE EQUIPO ANTIGUO PRIMERO VAMOS A DEJAR COMO DATO LAS CARACTERISTICAS DE ESTE SIGUIENTE :
+## PARA EL DESMONTAJE DE ESTE EQUIPO ANTIGUO PRIMERO VAMOS A DEJAR COMO DATO LAS CARACTERISTICAS DE ESTE SIGUIENTE :
 | Placa base  | Procesador | Memoria RAM  | Unidad de Almacenamiento | Disipador | Tarjeta de red |
 | ----------- | ---------- | ------------ | ------------------------ |-----------|----------------|
 | GIGABYTE GA-H8 | Intel pentium 4 (3 GHz)  |  10 Gb de memoria RAM  | Disco duro de 500 Gb  | intel E97379-001 | TP-Link TL-WN881ND |
@@ -20,6 +20,6 @@
 #### ·Tarjeta de red : TP-Link TL-WN881ND
 ![ups... parece que la imagen no carga](Puestaenmarchadeunequipo/29.jpg/)
 
-### MANTENIMIENTO Y DESMONTAJE
+## MANTENIMIENTO Y DESMONTAJE
 
 
