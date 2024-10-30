@@ -72,3 +72,7 @@
 ![ups... parece que la imagen no carga](Puestaenmarchadeunequipo/18.jpg/)
 ![ups... parece que la imagen no carga](Puestaenmarchadeunequipo/3.jpg/)
 ![ups... parece que la imagen no carga](Puestaenmarchadeunequipo/16.jpg/)
+
+#### Posterior a todo eso es necesario volver a montar de nuevo , es importante hacer imagenes de referencia para saber donde va cada un de los conectores y componentes .
+
+### Trabajo realizado por *Rubén Castillo Espejo* y *Nour Essafi*
