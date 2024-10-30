@@ -32,7 +32,7 @@
 
 ![ups... parece que la imagen no carga](Puestaenmarchadeunequipo/8.jpg/)
 ![ups... parece que la imagen no carga](Puestaenmarchadeunequipo/9.jpg/)
-![ups... parece que la imagen no carga](Puestaenmarchadeunequipo/30.jpg/)
+![ups... parece que la imagen no carga](Puestaenmarchadeunequipo/35.jpg/)
 
 #### ·Paso 3 : Revisamos por encima de manera general la placa madre conectores y componentes visibles (por si alguno está mal conectado o está cubierto de polvo) 
 
@@ -67,4 +67,8 @@
 ![ups... parece que la imagen no carga](Puestaenmarchadeunequipo/23.jpg/)
 ![ups... parece que la imagen no carga](Puestaenmarchadeunequipo/20.jpg/)
 
+#### ·Paso 9 : Momento de retirar todos los elementos del puerto SATA del gabinete para posteriormente revisarlos o sustituirlos (en nuestro caso era solo un disco duro )
 
+![ups... parece que la imagen no carga](Puestaenmarchadeunequipo/18.jpg/)
+![ups... parece que la imagen no carga](Puestaenmarchadeunequipo/3.jpg/)
+![ups... parece que la imagen no carga](Puestaenmarchadeunequipo/16.jpg/)
