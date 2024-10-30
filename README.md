@@ -3,6 +3,10 @@
 ## MONTAJE Y DESMONTAJE
 
 ### PARA EL DESMONTAJE DE ESTE EQUIPO ANTIGUO PRIMERO VAMOS A DEJAR COMO DATO LAS CARACTERISTICAS DE ESTE SIGUIENTE :
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 #### ·Modelo de placa base : GIGABYTE GA-H8
 ![ups... parece que la imagen no carga](Puestaenmarchadeunequipo/19.jpg/)
@@ -18,3 +22,5 @@
 ![ups... parece que la imagen no carga](Puestaenmarchadeunequipo/29.jpg/)
 
 ### MANTENIMIENTO Y DESMONTAJE
+
+
