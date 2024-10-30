@@ -8,7 +8,7 @@
 | GIGABYTE GA-H8 | Intel pentium 4 (3 GHz)  |  10 Gb de memoria RAM  | Disco duro de 500 Gb  | intel E97379-001 | TP-Link TL-WN881ND |
 
 #### ·Modelo de placa base : GIGABYTE GA-H8
-![ups... parece que la imagen no carga](Puestaenmarchadeunequipo/19.jpg/=250x250 )
+![ups... parece que la imagen no carga](Puestaenmarchadeunequipo/19.jpg/ )
 #### ·Procesador : Intel pentium 4 (3 GHz)
 ![ups... parece que la imagen no carga](Puestaenmarchadeunequipo/38.jpg/)
 #### ·Cantidad de memoria RAM : 10 Gb de memoria
