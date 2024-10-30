@@ -3,8 +3,8 @@
 ## MONTAJE Y DESMONTAJE
 
 ### PARA EL DESMONTAJE DE ESTE EQUIPO ANTIGUO PRIMERO VAMOS A DEJAR COMO DATO LAS CARACTERISTICAS DE ESTE SIGUIENTE :
-| Placa base  | Procesador | Memoria RAM  | Unidad de Almacenamiento |
-| ----------- | ---------- | ------------ | ------------------------ |
+| Placa base  | Procesador | Memoria RAM  | Unidad de Almacenamiento | Disipador | Tarjeta de red |
+| ----------- | ---------- | ------------ | ------------------------ |-----------|----------------|
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 
 #### ·Modelo de placa base : GIGABYTE GA-H8
