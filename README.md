@@ -15,6 +15,6 @@
 #### ·Disipador : intel E97379-001
 ![ups... parece que la imagen no carga](Puestaenmarchadeunequipo/24.jpg/)
 #### ·Tarjeta de red : TP-Link TL-WN881ND
-![ups... parece que la imagen no carga](Puestaenmarchadeunequipo/27.jpg/)
+![ups... parece que la imagen no carga](Puestaenmarchadeunequipo/29.jpg/)
 
 ### MANTENIMIENTO Y DESMONTAJE
