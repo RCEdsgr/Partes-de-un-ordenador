@@ -9,6 +9,7 @@
 
 #### ·Modelo de placa base : GIGABYTE GA-H8
 ![ups... parece que la imagen no carga](Puestaenmarchadeunequipo/19.jpg/ )
+<img scr=".Puestaenmarchadeunequipo/19.jpg" width=330 height=330 >
 #### ·Procesador : Intel pentium 4 (3 GHz)
 ![ups... parece que la imagen no carga](Puestaenmarchadeunequipo/38.jpg/)
 #### ·Cantidad de memoria RAM : 10 Gb de memoria
