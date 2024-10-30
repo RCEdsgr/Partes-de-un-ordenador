@@ -22,4 +22,21 @@
 
 ## MANTENIMIENTO Y DESMONTAJE
 
-
+#### ·Paso 1 : Desatornillar la tapa del gabinete 
+![ups... parece que la imagen no carga](Puestaenmarchadeunequipo/37.jpg/)
+![ups... parece que la imagen no carga](Puestaenmarchadeunequipo/5.jpg/)
+![ups... parece que la imagen no carga](Puestaenmarchadeunequipo/6.jpg/)
+#### ·Paso 2 : Desanclar todos los componentes que viene atornillados al gabinete
+![ups... parece que la imagen no carga](Puestaenmarchadeunequipo/8.jpg/)
+![ups... parece que la imagen no carga](Puestaenmarchadeunequipo/9.jpg/)
+![ups... parece que la imagen no carga](Puestaenmarchadeunequipo/30.jpg/)
+#### ·Paso 3 : Revisamos por encima de manera general la placa madre conectores y componentes visibles (por si alguno está mal conectado o está cubierto de polvo) 
+![ups... parece que la imagen no carga](Puestaenmarchadeunequipo/10.jpg/)
+#### ·Paso 4 : Retiramos los conectores de la placa madre (importante visualizar los pines de donde se coloca cada uno de estos para posteriormente volver a montarlos)
+![ups... parece que la imagen no carga](Puestaenmarchadeunequipo/11.jpg/)
+![ups... parece que la imagen no carga](Puestaenmarchadeunequipo/12.jpg/)
+![ups... parece que la imagen no carga](Puestaenmarchadeunequipo/13.jpg/)
+#### ·Paso 5 : Desatornillar la tapa del gabinete 
+![ups... parece que la imagen no carga](Puestaenmarchadeunequipo/29.jpg/)
+#### ·Paso 6 : Desatornillar la tapa del gabinete 
+![ups... parece que la imagen no carga](Puestaenmarchadeunequipo/29.jpg/)
