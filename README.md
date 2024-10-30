@@ -5,7 +5,7 @@
 ### PARA EL DESMONTAJE DE ESTE EQUIPO ANTIGUO PRIMERO VAMOS A DEJAR COMO DATO LAS CARACTERISTICAS DE ESTE SIGUIENTE :
 | Placa base  | Procesador | Memoria RAM  | Unidad de Almacenamiento | Disipador | Tarjeta de red |
 | ----------- | ---------- | ------------ | ------------------------ |-----------|----------------|
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| GIGABYTE GA-H8 | Intel pentium 4 (3 GHz)  |  10 Gb de memoria RAM  | Disco duro de 500 Gb  | intel E97379-001 | TP-Link TL-WN881ND |
 
 #### ·Modelo de placa base : GIGABYTE GA-H8
 ![ups... parece que la imagen no carga](Puestaenmarchadeunequipo/19.jpg/)
